@@ -1,0 +1,15 @@
+Vorgangstyp;Zusammenfassung;Vorgangs-Id;Übergeordnete-ID;Stichwörter;epic
+Epic;Der Ausbildungsbetrieb;TEST-10000;;;Der Ausbildungsbetrieb
+Epic;Geschäfts- und Leistungsprozesse;TEST-20000;;;Geschäfts- und Leistungsprozesse
+Epic;Arbeitsorganisation und Arbeitstechniken;TEST-30000;;;Arbeitsorganisation und Arbeitstechniken
+Epic;Informations- und telekommunikationstechnische Produkte und Märkte;TEST-40000;;;Informations- und telekommunikationstechnische Produkte und Märkte
+Epic;Herstellen und Betreuen von Systemlösungen;TEST-50000;;;Herstellen und Betreuen von Systemlösungen
+Epic;Systementwicklung;TEST-60000;;;Systementwicklung
+Epic;Schulung;TEST-70000;;;Schulung
+Epic;FiSi Systemintegration;TEST-80000;;;FiSi Systemintegration
+Epic;FiSi Service;TEST-90000;;;FiSi Service
+Epic;FiSi Fachaufgaben im Einsatzgebiet;TEST-100000;;;FiSi Fachaufgaben im Einsatzgebiet
+Epic;Anwend Informations- und telekommunikationstechnische Systeme;TEST-110000;;;Anwend Informations- und telekommunikationstechnische Systeme
+Epic;Anwend Kundenspezifische Anwendungslösungen;TEST-120000;;;Anwend Kundenspezifische Anwendungslösungen
+Epic;Anwend Fachaufgaben im Einsatzgebiet;TEST-130000;;;Anwend Fachaufgaben im Einsatzgebiet
+Epic;Last Line;TEST-990000;;;Last Line
