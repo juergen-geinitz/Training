@@ -1,6 +1,6 @@
 # Ausbildungsplan für Fachinformatiker
 
 
-Der README Tab in
+Die README Tabs in
 *Ausbildungsplan_tab.odt*
-beschreibt das Vorgehen zum erstellen von Karten.
+beschreiben das Vorgehen zum erstellen von Karten.
