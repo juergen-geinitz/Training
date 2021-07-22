@@ -1,0 +1,32 @@
+"IssueType","Summary","Issue-ID","ParentID","Labels","Epic-Name",,"id"
+"Task","Planen, Vorbereiten und Durchführen von Arbeitsaufgaben in Abstimmung mit den kundenspezifischen
+Geschäfts- und Leistungsprozessen","NICKR-100100","NICKR-1",,"Fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten","$Jira_Epics.C$2",7
+"Task","Informieren und Beraten von Kunden und Kundinnen","NICKR-100200","NICKR-1",,"Fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten","$Jira_Epics.C$2",8
+"Task","Beurteilen marktgängiger IT-Systeme und kundenspezifischer Lösungen","NICKR-100300","NICKR-1",,"Fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten","$Jira_Epics.C$2",9
+"Task","Entwickeln, Erstellen und Betreuen von IT-Lösungen","NICKR-100400","NICKR-1",,"Fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten","$Jira_Epics.C$2",10
+"Task","Durchführen und Dokumentieren von qualitätssichernden Maßnahmen","NICKR-100500","NICKR-1",,"Fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten","$Jira_Epics.C$2",11
+"Task","Umsetzen, Integrieren und Prüfen von Maßnahmen zur IT-Sicherheit und zum Datenschutz","NICKR-100600","NICKR-1",,"Fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten","$Jira_Epics.C$2",12
+"Task","Erbringen der Leistungen und Auftragsabschluss","NICKR-100700","NICKR-1",,"Fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten","$Jira_Epics.C$2",13
+"Task","Betreiben von IT-Systemen","NICKR-100800","NICKR-1",,"Fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten","$Jira_Epics.C$2",14
+"Task","Inbetriebnehmen von Speicherlösungen","NICKR-100900","NICKR-1",,"Fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten","$Jira_Epics.C$2",15
+"Task","Programmieren von Softwarelösungen","NICKR-101000","NICKR-1",,"Fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten","$Jira_Epics.C$2",16
+"Task","Bereich: Anw - Konzipieren und Umsetzen von kundenspezifischen Softwareanwendungen","NICKR-200100","NICKR-2",,"Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Anwendungsentwicklung","$Jira_Epics.C$3",17
+"Task","Bereich: Anw - Sicherstellen der Qualität von Softwareanwendungen","NICKR-200200","NICKR-2",,"Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Anwendungsentwicklung","$Jira_Epics.C$3",18
+"Task","Bereich: FiSi - Konzipieren und Realisieren von IT-Systemen","NICKR-300100","NICKR-3",,"Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Systemintegration","$Jira_Epics.C$4",19
+"Task","Bereich: FiSi - Errichten, Ändern und Prüfen von vernetzten Systemen / Installieren und Konfigurieren von Netzwerken","NICKR-300200","NICKR-3",,"Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Systemintegration","$Jira_Epics.C$4",20
+"Task","Bereich: FiSi - Betreiben von vernetzten Systemen und Sicherstellen der Systemverfügbarkeit / Administrieren
+von IT-Systemen","NICKR-300300","NICKR-3",,"Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Systemintegration","$Jira_Epics.C$4",21
+"Task","Bereich: DaPro - Analysieren von Arbeits- und Geschäftsprozessen","NICKR-400100","NICKR-4",,"Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Daten- und Prozessanalyse","$Jira_Epics.C$5",22
+"Task","Bereich: DaPro - Analysieren von Datenquellen und Bereitstellen von Daten","NICKR-400200","NICKR-4",,"Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Daten- und Prozessanalyse","$Jira_Epics.C$5",23
+"Task","Bereich: DaPro - Nutzen der Daten zur Optimierung von Arbeits- und Geschäftsprozessen sowie zur Optimierung
+digitaler Geschäftsmodelle","NICKR-400300","NICKR-4",,"Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Daten- und Prozessanalyse","$Jira_Epics.C$5",24
+"Task","Bereich: DaPro - Umsetzen des Datenschutzes und der Schutzziele der Datensicherheit","NICKR-400400","NICKR-4",,"Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Daten- und Prozessanalyse","$Jira_Epics.C$5",25
+"Task","Bereich: Net - Analysieren und Planen von Systemen zur Vernetzung von Prozessen und Produkten","NICKR-500100","NICKR-5",,"Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Digitale Vernetzung","$Jira_Epics.C$6",26
+"Task","Bereich: Net - Errichten, Ändern und Prüfen von vernetzten Systemen","NICKR-500200","NICKR-5",,"Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Digitale Vernetzung","$Jira_Epics.C$6",27
+"Task","Bereich: Net - Betreiben von vernetzten Systemen und Sicherstellen der Systemverfügbarkeit","NICKR-500300","NICKR-5",,"Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Digitale Vernetzung","$Jira_Epics.C$6",28
+"Task","Berufsbildung sowie Arbeits- und Tarifrecht","NICKR-600100","NICKR-6",,"Fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten","$Jira_Epics.C$7",29
+"Task","Aufbau und Organisation des Ausbildungsbetriebes","NICKR-600200","NICKR-6",,"Fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten","$Jira_Epics.C$7",30
+"Task","Sicherheit und Gesundheitsschutz bei der Arbeit","NICKR-600300","NICKR-6",,"Fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten","$Jira_Epics.C$7",31
+"Task","Umweltschutz","NICKR-600400","NICKR-6",,"Fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten","$Jira_Epics.C$7",32
+"Task","Vernetztes Zusammenarbeiten unter Nutzung digitaler Medien","NICKR-600500","NICKR-6",,"Fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten","$Jira_Epics.C$7",33
+"Task","Bereich: invisible - Last Line","NICKR-9909900","",,"","$Jira_Epics.C$8",34
